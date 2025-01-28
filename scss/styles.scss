@@ -122,8 +122,13 @@
 }
 
 .video-modal .modal-dialog {
-    max-width: 1150;
+    max-width: 1150px;
     margin-top: 20px;
+}
+
+.project-modals .modal-dialog {
+    max-width: 1150px;
+    margin-top: 130px;
 }
 
 @media(max-width: 992px){
